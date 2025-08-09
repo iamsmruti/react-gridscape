@@ -1,0 +1,41 @@
+{
+  "elements": [
+    {
+      "id": "road-horizontal-1754743517182",
+      "type": "road-horizontal",
+      "x": 420,
+      "y": 240,
+      "customId": "R1"
+    },
+    {
+      "id": "road-connector-1754743555140",
+      "type": "road-connector",
+      "x": 480,
+      "y": 240,
+      "customId": "R3",
+      "rotation": 90
+    },
+    {
+      "id": "parking-horizontal-1754743659720",
+      "type": "parking-horizontal",
+      "x": 300,
+      "y": 300,
+      "customId": "P8",
+      "spotInfo": {
+        "occupied": false
+      }
+    },
+    {
+      "id": "office-1754743694085",
+      "type": "office",
+      "x": 420,
+      "y": 120,
+      "customId": "E3"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-09T12:45:14.554Z",
+    "updatedAt": "2025-08-09T12:45:14.554Z",
+    "gridSize": 60
+  }
+}
