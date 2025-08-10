@@ -1,4 +1,4 @@
-# React GridScape 🏗️
+# React GridScape
 
 A powerful, flexible React component library for building interactive grid-based layouts and parking lot management systems. Design, visualize, and manage spatial layouts with drag-and-drop functionality, real-time editing, and comprehensive customization options.
 
@@ -6,7 +6,9 @@ A powerful, flexible React component library for building interactive grid-based
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](http://www.typescriptlang.org/)
 
-![](src/assets/Parking%20Lot%20Builder.png)
+![](src/assets/1.png)
+
+![](src/assets/2.png)
 
 ## ✨ Features
 
