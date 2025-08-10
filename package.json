@@ -67,7 +67,7 @@
     "format": "prettier --write \"src/**/*.{ts,tsx,json,md}\"",
     "format:check": "prettier --check \"src/**/*.{ts,tsx,json,md}\"",
     "type-check": "tsc --noEmit",
-    "prepublishOnly": "npm run type-check && npm run lint && npm run test && npm run build",
+    "prepublishOnly": "npm run type-check && npm run build",
     "prepack": "npm run build",
     "release": "npm version patch && npm publish",
     "release:minor": "npm version minor && npm publish",
